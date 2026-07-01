@@ -1,0 +1,15 @@
+{
+  "name": "Pixel Poet Vault",
+  "short_name": "PixelPoet",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#1f2937",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3815/3815777.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
